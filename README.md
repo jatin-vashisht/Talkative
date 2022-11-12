@@ -15,7 +15,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 https://talk-a-tive.herokuapp.com/
 
-![](https://github.com/jatin-vashisht/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+![](https://github.com/jatin-vashisht/Talkative/blob/master/screenshots/group%20%2B%20notif.PNG)
 ## Run Locally
 
 Clone the project
