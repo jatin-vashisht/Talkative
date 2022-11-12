@@ -15,13 +15,13 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 https://talk-a-tive.herokuapp.com/
 
-![](https://github.com/jatin-vashisht/Talkative/blob/master/screenshots/group%20%2B%20notif.PNG)
+![](https://github.com/jatin-vashisht/Talkative/blob/main/screenshots/group%20%2B%20notif.PNG)
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/jatin-vashisht/mern-chat-app
+  git clone https://github.com/jatin-vashisht/Talkative
 ```
 
 Go to the project directory
@@ -58,22 +58,21 @@ Start the Client
 # Features
 
 ### Authenticaton
-![](https://github.com/jatin-vashisht/Talkative/blob/master/screenshots/login.PNG)
-![](https://github.com/jatin-vashisht/Talkative/blob/master/screenshots/signup.PNG)
+![](https://github.com/jatin-vashisht/Talkative/blob/main/screenshots/login.PNG)
+![](https://github.com/jatin-vashisht/Talkative/blob/main/screenshots/signup.PNG)
 ### Real Time Chatting with Typing indicators
-![](https://github.com/jatin-vashisht/Talkative/blob/master/screenshots/real-time.PNG)
+![](https://github.com/jatin-vashisht/Talkative/blob/main/screenshots/real-time.PNG)
 ### One to One chat
-![](https://github.com/jatin-vashisht/Talkative/blob/master/screenshots/mainscreen.PNG)
+![](https://github.com/jatin-vashisht/Talkative/blob/main/screenshots/mainscreen.PNG)
 ### Search Users
-![](https://github.com/jatin-vashisht/Talkative/blob/master/screenshots/search.PNG)
+![](https://github.com/jatin-vashisht/Talkative/blob/main/screenshots/search.PNG)
 ### Create Group Chats
-![](https://github.com/jatin-vashisht/Talkative/blob/master/screenshots/new%20grp.PNG)
+![](https://github.com/jatin-vashisht/Talkative/blob/main/screenshots/new%20grp.PNG)
 ### Notifications 
-![](https://github.com/jatin-vashisht/Talkative/blob/master/screenshots/group%20%2B%20notif.PNG)
+![](https://github.com/jatin-vashisht/Talkative/blob/main/screenshots/group%20%2B%20notif.PNG)
 ### Add or Remove users from group
-![](https://github.com/jatin-vashisht/Talkative/blob/master/screenshots/add%20rem.PNG)
-### View Other user Profile
-![](https://github.com/jatin-vashisht/Talkative/blob/master/screenshots/profile.PNG)
+![](https://github.com/jatin-vashisht/Talkative/blob/main/screenshots/add%20rem.PNG)
+
 ## Made By
 
 - [@Jatin-Vashisht](https://github.com/jatin-vashisht)
