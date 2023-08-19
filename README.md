@@ -13,7 +13,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
   
 ## Demo
 
-[https://talk-a-tive.herokuapp.com/](https://talk-a-tive-7fgq.onrender.com/)
+(https://talk-a-tive-7fgq.onrender.com/)
 
 ![](https://github.com/jatin-vashisht/Talkative/blob/main/screenshots/group%20%2B%20notif.PNG)
 ## Run Locally
